@@ -21,7 +21,7 @@ Develop my own Search Engine. Have hands-on experience with the various modules 
 
 
 # Ability:
-The Search Engine now indexes and retrieves documents from a list of U-O course descriptions (https://catalogue.uottawa.ca/en/courses/csi/) and Reuters-21578 (http://www.daviddlewis.com/resources/testc ollections/reuters21578/), which is a news collection, often used for text categorization and information retrieval. 
+The Search Engine now indexes and retrieves documents from a list of U-O course descriptions (https://catalogue.uottawa.ca/en/courses/csi/) and Reuters-21578 (http://www.daviddlewis.com/resources/testcollections/reuters21578/), which is a news collection, often used for text categorization and information retrieval. 
 
 
 # How To Run:
