@@ -1,4 +1,4 @@
-# FindIt
+# Find It!
 Java News Search Engine
 
 
